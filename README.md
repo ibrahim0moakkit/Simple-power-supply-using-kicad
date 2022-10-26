@@ -7,3 +7,9 @@ schematic
 PCB
 
 ![Screenshot 2022-10-26 132006](https://user-images.githubusercontent.com/108411357/198002619-c6291721-5489-45cb-aeaa-79d339ed29e0.png)
+
+
+3D View
+
+
+![power supply](https://user-images.githubusercontent.com/108411357/198002749-f65f3194-6b14-4cca-a0cb-83cab513dfb1.png)
